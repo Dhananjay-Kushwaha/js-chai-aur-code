@@ -28,7 +28,7 @@ let name_in_number=Number(name)
 // console.log(typeof name_in_number);
 
 
-let 
+
 
 
 
