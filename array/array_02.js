@@ -24,7 +24,7 @@ const arr2=["abs", "joker", "xyz"]
 
 // .from method 
 
-console.log(Array.from("Dhananjay"));
+// console.log(Array.from("Dhananjay"));
 
 
 //  .of method
@@ -34,6 +34,20 @@ let r=1378
 let c=1
 
 // console.log(Array.of(a,r,c));
+
+
+
+// isArray method - - - -- --  --
+
+
+
+
+console.log(Array.isArray("Dhananjay"));
+console.log(Array.isArray(2));
+console.log(Array.isArray([2,3]));
+
+
+
 
 
 
