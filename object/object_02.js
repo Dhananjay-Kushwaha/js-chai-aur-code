@@ -59,7 +59,7 @@ const merged= {...obj1, ...obj2 }
 // console.log(Object.entries(car));           // Entries
 
 console.log(obj1.hasOwnProperty("name"));
-console.log(obj1.hasOwnProperty("drd"));
+console.log(obj1.hasOwnProperty("drd"));  // here output is false because hasOwnProperty will check for only keys
 
 
 
