@@ -68,3 +68,7 @@ console.log(obj1.hasOwnProperty("drd"));  // here output is false because hasOwn
 
 
 
+{
+                        // Json    
+
+}
