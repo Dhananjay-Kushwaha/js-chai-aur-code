@@ -42,3 +42,7 @@ data.forEach(function(val){
 console.log(val.nama);
 
 })
+
+
+
+
